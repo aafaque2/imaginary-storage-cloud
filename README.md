@@ -4,7 +4,7 @@ A comprehensive file upload and storage solution with a modern web interface, po
 
 ## 🚀 Project Overview
 
-ImaginaryStore is a full-stack file storage platform designed to simplify file upload, management, and sharing for modern web applications. The project consists of multiple interconnected applications that work together to provide a complete file storage ecosystem.
+ImaginaryStorage is a full-stack file storage platform designed to simplify file upload, management, and sharing for modern web applications. The project consists of multiple interconnected applications that work together to provide a complete file storage ecosystem.
 
 ### Current Status
 
