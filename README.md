@@ -1,4 +1,4 @@
-# ImaginaryStore
+# ImaginaryStorage
 
 A comprehensive file upload and storage solution with a modern web interface, powerful backend API, and embeddable JavaScript widget for seamless file management across web applications.
 
@@ -40,7 +40,7 @@ ImaginaryStorage is a full-stack file storage platform designed to simplify file
 ## 📁 Project Structure
 
 ```
-imaginary-store/
+imaginary-storage/
 ├── 📁 apps/                          # Application modules
 │   ├── 📁 frontend/                  # React dashboard application
 │   │   ├── src/components/           # React components
@@ -110,8 +110,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-org/imaginary-store.git
-   cd imaginary-store
+   git clone https://github.com/imaginary-storage/imaginary-storage-cloud.git
+   cd imaginary-storage-cloud
    ```
 
 2. **Install all dependencies**
